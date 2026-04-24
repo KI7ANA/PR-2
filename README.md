@@ -140,7 +140,7 @@
 
 <div align="center">
 
-![Рисунок 3.2. Расположение элементов справа налево](images/image_3_2.png)
+<img width="1246" height="943" alt="image" src="https://github.com/user-attachments/assets/8b16693a-613f-4368-b53b-e60d36347ebf" />
 
 *Рисунок 3.2. Расположение элементов справа налево*
 
