@@ -130,7 +130,7 @@
 
 <div align="center">
 
-![Рисунок 3.1. Горизонтальное расположение элементов](images/image_3_1.png)
+<img width="1199" height="932" alt="image" src="https://github.com/user-attachments/assets/7b54a106-26db-4e23-90a3-3ef5fc152524" />
 
 *Рисунок 3.1. Горизонтальное расположение элементов*
 
