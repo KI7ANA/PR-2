@@ -268,7 +268,7 @@
 
 <div align="center">
 
-![Рисунок 5. Объединение ячеек в GridLayout](images/image_5.png)
+<img width="1249" height="914" alt="image" src="https://github.com/user-attachments/assets/4ebde820-1917-4d33-9b73-334e521af34a" />
 
 *Рисунок 5. Объединение ячеек в `GridLayout`*
 
