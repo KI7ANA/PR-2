@@ -164,7 +164,7 @@
 
 <div align="center">
 
-![Рисунок 4. Таблица кнопок 3x3](images/image_4.png)
+<img width="1221" height="924" alt="image" src="https://github.com/user-attachments/assets/6421607a-1cd5-4930-8991-7e8abb1f1b0f" />
 
 *Рисунок 4. Результат работы `GridLayout` 3×3*
 
