@@ -150,7 +150,7 @@
 
 <div align="center">
 
-![Рисунок 3.3. Изменение выравнивания элементов](images/image_3_3.png)
+<img width="1250" height="973" alt="image" src="https://github.com/user-attachments/assets/b857f7e0-9dfe-499f-abf8-5f37c493319d" />
 
 *Рисунок 3.3. Изменение выравнивания элементов*
 
