@@ -324,7 +324,7 @@
 
 <div align="center">
 
-![Рисунок 6. Результат выполнения задания по варианту 5](images/image_6.png)
+<img width="1217" height="908" alt="image" src="https://github.com/user-attachments/assets/b2213fbb-e290-47f1-8888-da6f3106e7d2" />
 
 *Рисунок 6. Результат выполнения задания по варианту 5*
 
