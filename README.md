@@ -83,7 +83,7 @@
 
 <div align="center">
 
-![Рисунок 2. Отображение фигур в LinearLayout](images/image_2.png)
+<img width="1232" height="909" alt="image" src="https://github.com/user-attachments/assets/88c5c762-361e-45ad-92f6-5cac89f47cd9" />
 
 *Рисунок 2. Результат отображения фигур в `LinearLayout`*
 
